@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="QStringListRefModel.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2371" topLine="69" />
+	</File>
+	<File name="QStringListRefModel.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="203" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="224" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
